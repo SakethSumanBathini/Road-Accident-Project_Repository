@@ -16,37 +16,32 @@ The Road Accident Dashboard utilizes several types of visualizations, each desig
 ### **Types of Visualizations**:
 
 - **KPI Dashboard**:
-  - **Purpose**: Showcases key statistics including **Total Casualties**, **Fatal Casualties**, and **Casualties by Car**.
-  - **Insights**: Provides a quick overview of critical road safety metrics, helping stakeholders focus on areas that require immediate attention.
+  - This visualization showcases key statistics, including **Total Casualties**, **Fatal Casualties**, and **Casualties by Car**. By providing a quick overview of critical road safety metrics, it helps stakeholders focus on areas that require immediate attention, enabling faster response and more targeted safety interventions.
 
-![KPI](https://github.com/user-attachments/assets/52169139-5879-4340-8652-5684013baefc)
+  ![KPI](https://github.com/user-attachments/assets/52169139-5879-4340-8652-5684013baefc)
 
 - **Monthly Trend Analysis**:
-  - **Purpose**: Uses line charts to compare accident trends across the months of 2021 and 2022.
-  - **Insights**: Identifies seasonal variations in road accidents, indicating periods when enhanced safety measures are needed.
+  - This visualization uses line charts to compare accident trends across the months of 2021 and 2022. By identifying seasonal variations in road accidents, stakeholders can pinpoint periods when enhanced safety measures are most needed, allowing for better resource allocation and proactive planning.
 
   ![Monthly Trend](https://github.com/user-attachments/assets/6d5e0d72-ca78-4c6c-a81b-355a2b433eb3)
 
 - **Donut Charts: Casualties by Location and Lighting Conditions**:
-  - **Purpose**: Illustrates the distribution of casualties by **Location (Urban/Rural)** and **Lighting Conditions (Daylight/Dark)**.
-  - **Insights**: Highlights the impact of environmental factors on accident severity, guiding improvements in road safety infrastructure.
+  - These donut charts illustrate the distribution of casualties by **Location (Urban/Rural)** and **Lighting Conditions (Daylight/Dark)**. By highlighting the impact of environmental factors on accident severity, these charts guide improvements in road safety infrastructure, such as better lighting in dark areas and targeted interventions in high-risk urban or rural locations.
 
   ![Donut Charts](https://github.com/user-attachments/assets/4ce78f89-ef09-433c-bb15-570fc1c5edfc)
 
 - **Tree Map: Road Surface Conditions**:
-  - **Purpose**: Visualizes the impact of **Road Surface** conditions on accident severity.
-  - **Insights**: Helps in understanding the correlation between road surface conditions and accident outcomes, supporting targeted road maintenance efforts.
+  - The tree map visualizes the impact of **Road Surface** conditions on accident severity. It helps stakeholders understand the correlation between road surface conditions and accident outcomes, supporting targeted road maintenance efforts that can mitigate these risks and reduce accident rates.
 
   ![Tree Map](https://github.com/user-attachments/assets/7fac1d15-8b2d-44b8-8c94-99746024186a)
 
 - **Bar Chart: Casualties by Road Type**:
-  - **Purpose**: Displays the number of casualties by **Road Type**.
-  - **Insights**: Reveals which road types are associated with higher accident rates, guiding road design and safety interventions.
+  - This bar chart displays the number of casualties by **Road Type**, revealing which road types are associated with higher accident rates. This information is crucial for guiding road design improvements and implementing specific safety interventions to reduce accidents on high-risk road types.
 
   ![Road Type](https://github.com/user-attachments/assets/f0b6647d-cefe-45fb-ad53-bb8266a4f7c2)
 
 ### **Final Dashboard**
-The final dashboard integrates these visualizations into a cohesive interface, allowing users to explore the data interactively. It provides a comprehensive overview of road accident trends, helping stakeholders to derive actionable insights.
+The final dashboard integrates these visualizations into a cohesive interface, allowing users to explore the data interactively. It provides a comprehensive overview of road accident trends, helping stakeholders to derive actionable insights that inform policy and enhance road safety measures.
 
 ![Road Accident Dashboard](https://github.com/user-attachments/assets/8967f548-b962-4f53-b420-61e0bd51a97a)
 
@@ -74,6 +69,7 @@ The Road Accident Dashboard project has achieved several significant outcomes, i
 ## **5. Data Set**
 
 The dataset used in this project is essential for analyzing road accident trends. It includes data on accident severity, vehicle types, locations, lighting conditions, and road surface conditions.
+![Data Source](https://github.com/user-attachments/assets/24c1d4c3-c9e0-480d-a87d-52a3fbed2a5b)
 
 ### **Data Characteristics**:
 - **Volume**: The dataset includes comprehensive records of road accidents from 2021 and 2022, providing a substantial sample size for analysis.
@@ -83,4 +79,3 @@ The dataset used in this project is essential for analyzing road accident trends
 ## **6. Conclusion**
 
 This project underscores the importance of data-driven decision-making in public safety and urban planning. By integrating a variety of visual tools and analytics, it provides stakeholders with the resources needed to address road safety challenges effectively. The interactive dashboard not only offers a clear overview of road accident trends but also highlights key areas where improvements can be made to enhance road safety.
-
